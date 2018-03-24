@@ -1,0 +1,116 @@
+html, body{
+	margin:0;
+	padding:0;
+	overflow: auto;
+}
+
+body {
+
+	background: linear-gradient(10deg,#fff,#f2f2f2);
+	background-attachment: fixed;
+	font-family: Helvetica,Arial,sans-serif;
+}
+
+.admin-home a {
+	color: grey;
+	font-family: Helvetica,Arial,sans-serif;
+}
+
+.admin-home a:hover {
+	text-decoration: none;
+}
+
+.form-search {
+
+	background-color: white;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	padding: 20px;
+	margin: 20px 0 20px 0;
+}
+
+.form-search-voltar a {
+	color:steelblue;
+	font-family: Helvetica,Arial,sans-serif;
+}
+
+.form-search-voltar a:hover {
+	text-decoration: none;
+	color: darkgrey;
+}
+
+.form-search h4 {
+	color: gray;
+	font-family: Helvetica,Arial,sans-serif;
+}
+
+.form-search h6 {
+	color: gray;
+	font-family: Helvetica,Arial,sans-serif;
+}
+
+.form-search h5 {
+	background: #f2f2f2;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 10px;
+	color: grey;
+	
+}
+
+.form-check {
+	padding-left: 0; 
+}
+
+.img-fluid {
+	width: 250px;
+	height: 100px;
+	margin: 0 0 10px 0;
+}
+
+.img-thumbnail {
+	width: 120px;
+	height: 70px;
+	border: none;
+}
+
+
+.graficos {
+	margin-top: 10px;
+	border: 1px solid #ccc;
+	background-color: white;
+	border-radius: 10px;
+	padding: 20px;
+
+}
+
+.graficos h3 {
+	text-align: center;
+	color: gray;
+	font-family: Helvetica,Arial,sans-serif;
+}
+
+.graficos h4 {
+	text-align: center;
+	color: gray;
+	font-family: Helvetica,Arial,sans-serif;
+}
+
+.graficos h5 {
+	text-align: left;
+	color: gray;
+	font-family: Helvetica,Arial,sans-serif;
+}
+
+.graficos h6 {
+	text-align: center;
+	color: gray;
+	font-family: Helvetica,Arial,sans-serif;
+}
+
+.grafico{
+	width: 680;
+	height: 360;
+	display:none; 
+	overflow:hidden; 
+}
